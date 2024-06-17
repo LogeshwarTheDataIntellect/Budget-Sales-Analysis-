@@ -1,5 +1,8 @@
 # Budget Sales Analysis
 
+![image](https://github.com/LogeshwarTheDataIntellect/Budget-Sales-Analysis-/assets/104715001/3da98083-d87e-44a0-9583-8349fff08cf8)
+
+
 ## Overview
 
 This project analyzes the sales data of Adventure Works to identify trends, optimize inventory, and enhance sales strategies. By conducting exploratory data analysis (EDA), we aim to uncover insights that can guide decision-making for improving business performance.
