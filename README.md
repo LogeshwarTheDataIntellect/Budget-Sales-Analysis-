@@ -62,5 +62,5 @@ The objective is to analyze Adventure Works' sales data to identify trends, opti
 
 
 ## Acknowledgments
-- Unified Mentor Private Limited for providing the dataset and project guidance
-- All contributors and reviewers for their invaluable input and feedback
+- Unified Mentor Private Limited for providing the dataset and project guidance.
+- All contributors and reviewers for their invaluable input and feedback.
